@@ -5,7 +5,7 @@ package.domain = org.troll
 source.dir = .
 source.include_exts = py,png,jpg,atlas
 version = 0.1
-requirements = python3,pygame
+requirements = python3==3.11.8,hostpython3==3.11.8,pygame
 orientation = landscape
 fullscreen = 1
 android.permissions = INTERNET
